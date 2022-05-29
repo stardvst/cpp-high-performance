@@ -35,4 +35,8 @@
 .vs
 *.suo
 *.user
+*.log
+*.tlog
+*.idb
+*.pdb
 VSWorkspaceState.json
