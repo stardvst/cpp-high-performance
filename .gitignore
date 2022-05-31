@@ -39,4 +39,7 @@
 *.tlog
 *.idb
 *.pdb
+*.ilk
+*.recipe
+*.vcxproj*
 VSWorkspaceState.json
