@@ -16,7 +16,7 @@ struct PointOpt
 {
 	int m_x;
 	int m_y;
-	~Point() = default; // or no destructor at all
+	~PointOpt() = default; // or no destructor at all
 };
 
 auto copy(PointOpt *src, PointOpt *dest)
